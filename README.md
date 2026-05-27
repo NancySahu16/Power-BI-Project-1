@@ -1,4 +1,9 @@
-# 📊 Sales Dashboard (Power BI)
+---
+title:Superstore_Sale(top_down& bottom_up_Analysis)
+---
+
+
+# 📊 Superstore_Sale(top_down& bottom_up_Analysis)
 
 ## 📌 Project Overview
 This project analyzes sales data to track performance, identify trends, and provide actionable insights.
@@ -31,7 +36,8 @@ This project analyzes sales data to track performance, identify trends, and prov
 images/dashboard.png
 
 ### Revenue Trends
-images/trends.png
+![Top Down analysis/filtering](top_down_analysis_filtering.png)
+![](bottom_up_analysis_filtering.png)
 
 ---
 
