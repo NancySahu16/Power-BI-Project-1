@@ -12,6 +12,8 @@ title: Sample Power BI project
 Click the links below to view my project:
 
 - [my project](README.md)
+- [New Link](Superstore_Sale(top_down& bottom_up_Analysis).md
+
 - [To view my Power BI project **Click Here**](powerbi.md)
 
 
